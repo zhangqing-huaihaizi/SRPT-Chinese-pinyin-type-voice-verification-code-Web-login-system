@@ -1,0 +1,6 @@
+E:\SRTP\code\code\code\bin\code.dll
+E:\SRTP\code\code\code\bin\code.pdb
+E:\SRTP\code\code\code\obj\Debug\ResolveAssemblyReference.cache
+E:\SRTP\code\code\code\obj\Debug\code.dll
+E:\SRTP\code\code\code\obj\Debug\code.pdb
+E:\SRTP\code\code\code\bin\sounding.dll
